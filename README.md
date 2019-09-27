@@ -7,6 +7,7 @@ git fetch [repositorio original]
 
 git pull [repositorio original]
 
-- Me pide un commit
-- El archivo está en el repositorio local
+(Me pide un commit)
+(El archivo está en el repositorio local)
+
 git push
